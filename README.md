@@ -31,7 +31,7 @@ in progress
 #### Manual Testing a demo banking website (online course).
 The main purpose of this project was learning how to design test cases, execute test cases and report bugs.
 
-About project: [Project description and tasks](https://docs.google.com/spreadsheets/d/1A6UsuB8FSz3wb3xDab8v7kUdOteZQ_Q4/edit?usp=sharing&ouid=116586658957560897054&rtpof=true&sd=true)
+About project: [Project description and actions taken](https://docs.google.com/spreadsheets/d/1A6UsuB8FSz3wb3xDab8v7kUdOteZQ_Q4/edit?usp=sharing&ouid=116586658957560897054&rtpof=true&sd=true)
 
 Documentation:
 [SRS_v1](https://docs.google.com/document/d/1_Oxm10fa39VKowOHzZbSmBbMRDJHXrOv/edit?usp=sharing&ouid=116586658957560897054&rtpof=true&sd=true), [SRS_v2](https://docs.google.com/document/d/1NrEHoSOwXrJIfmnEO6LCc8DGR4nhlodl/edit?usp=sharing&ouid=116586658957560897054&rtpof=true&sd=true), [SRS_v3](https://docs.google.com/document/d/1K_Yr_xChURJb1zufE1yuxgsLTqx1CMKB/edit?usp=sharing&ouid=116586658957560897054&rtpof=true&sd=true), [SRS_v4](https://docs.google.com/document/d/15s92qDsm747ZJbGjjD8r3_tP_TzqFtcG/edit?usp=sharing&ouid=116586658957560897054&rtpof=true&sd=true), [FAQ on SRS](https://docs.google.com/document/d/1WtOYYMXdpwT-2H2uA4P0RtGas4F7RTm1/edit?usp=sharing&ouid=116586658957560897054&rtpof=true&sd=true), [Mockups](https://docs.google.com/document/d/1p3DeEmr67u6Gm-obv8V5G4HTE2y3LnlE/edit?usp=sharing&ouid=116586658957560897054&rtpof=true&sd=true)
