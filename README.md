@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About me
-I am reliable and detail-oriented, skilled in documentation analysis. I have experience mostly in fund valuation and settlement transactions in capital market, but also I had opportunities to participate in the project of implementation of the new system for Custodian Bank. I've got experiences in static testing (taking part in reviews as end-user), functional testing, user acceptance testing and analysing data during migration process. My goal is to develop testing knowledge and technical skills. I am now looking for new challenges, and I am eager to learn through new experiences.
+I am reliable, detail-oriented, and skilled in documentation analysis. I have experience mostly in fund valuation and settlement transactions in the capital market, but I had opportunities to participate in the project of implementation of the new system for Custodian Bank. I've got experience in static testing (taking part in reviews as end-user), functional testing, user acceptance testing, and analysing data during migration process. My goal is to develop testing knowledge and technical skills. I am now looking for new challenges, and I am eager to learn through new experiences.
 
 
 ## Tech Skills
