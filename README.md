@@ -20,11 +20,12 @@ I am reliable, detail-oriented, and skilled in documentation analysis. I have ex
 
 
 ## My Test Case Examples
-in progress
+[Test Cases_Account Statements_Arion Bank ](https://docs.google.com/spreadsheets/d/1Urcgg3GHbRi13rss1A0QLSu1lUTVsaJ7/edit?usp=sharing&ouid=116586658957560897054&rtpof=true&sd=true)
+
 
 
 ## My bug reports
-in progress
+[Bug Report for netbanki.arionbanki.is](https://docs.google.com/document/d/17gGYMaHNO8asxbkplUzm3eQR8-aoA-4v/edit?usp=sharing&ouid=116586658957560897054&rtpof=true&sd=true)
 
 
 ## Projects
