@@ -27,7 +27,7 @@ I am reliable, detail-oriented, and skilled in documentation analysis. I have ex
 ## My bug reports
 [Bug Report for netbanki.arionbanki.is](https://docs.google.com/document/d/17gGYMaHNO8asxbkplUzm3eQR8-aoA-4v/edit?usp=sharing&ouid=116586658957560897054&rtpof=true&sd=true)
 
-[Bug Report example from Testlink](https://drive.google.com/file/d/1HrDRoKRtA3CGDz8OM3my0Fxvr2he7qSN/view?usp=sharing)
+[Test execution report example from Testlink](https://drive.google.com/file/d/1HrDRoKRtA3CGDz8OM3my0Fxvr2he7qSN/view?usp=sharing)
 
 ## Projects
 #### Manual Testing a demo banking website (online course).
